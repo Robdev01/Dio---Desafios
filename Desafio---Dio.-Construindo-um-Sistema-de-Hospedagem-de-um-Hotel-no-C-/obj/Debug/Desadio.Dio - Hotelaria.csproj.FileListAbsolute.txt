@@ -1,0 +1,7 @@
+C:\Users\Robson\source\repos\Desadio.Dio - Hotelaria\Desadio.Dio - Hotelaria\bin\Debug\Desadio.Dio - Hotelaria.exe.config
+C:\Users\Robson\source\repos\Desadio.Dio - Hotelaria\Desadio.Dio - Hotelaria\bin\Debug\Desadio.Dio - Hotelaria.exe
+C:\Users\Robson\source\repos\Desadio.Dio - Hotelaria\Desadio.Dio - Hotelaria\bin\Debug\Desadio.Dio - Hotelaria.pdb
+C:\Users\Robson\source\repos\Desadio.Dio - Hotelaria\Desadio.Dio - Hotelaria\obj\Debug\Desadio.Dio - Hotelaria.csproj.AssemblyReference.cache
+C:\Users\Robson\source\repos\Desadio.Dio - Hotelaria\Desadio.Dio - Hotelaria\obj\Debug\Desadio.Dio - Hotelaria.csproj.CoreCompileInputs.cache
+C:\Users\Robson\source\repos\Desadio.Dio - Hotelaria\Desadio.Dio - Hotelaria\obj\Debug\Desadio.Dio - Hotelaria.exe
+C:\Users\Robson\source\repos\Desadio.Dio - Hotelaria\Desadio.Dio - Hotelaria\obj\Debug\Desadio.Dio - Hotelaria.pdb

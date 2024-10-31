@@ -1,0 +1,7 @@
+C:\Users\Robson\source\repos\DesafioDio.Estacionamento\DesafioDio.Estacionamento\bin\Debug\DesafioDio.Estacionamento.exe.config
+C:\Users\Robson\source\repos\DesafioDio.Estacionamento\DesafioDio.Estacionamento\bin\Debug\DesafioDio.Estacionamento.exe
+C:\Users\Robson\source\repos\DesafioDio.Estacionamento\DesafioDio.Estacionamento\bin\Debug\DesafioDio.Estacionamento.pdb
+C:\Users\Robson\source\repos\DesafioDio.Estacionamento\DesafioDio.Estacionamento\obj\Debug\DesafioDio.Estacionamento.csproj.AssemblyReference.cache
+C:\Users\Robson\source\repos\DesafioDio.Estacionamento\DesafioDio.Estacionamento\obj\Debug\DesafioDio.Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Robson\source\repos\DesafioDio.Estacionamento\DesafioDio.Estacionamento\obj\Debug\DesafioDio.Estacionamento.exe
+C:\Users\Robson\source\repos\DesafioDio.Estacionamento\DesafioDio.Estacionamento\obj\Debug\DesafioDio.Estacionamento.pdb
